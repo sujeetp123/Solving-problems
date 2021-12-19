@@ -5,6 +5,7 @@ class MaxMin {
 		
 		int Max;
 		int Min;
+		int id;
 		
 	}
 	
