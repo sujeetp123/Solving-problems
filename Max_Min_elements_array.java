@@ -1,7 +1,7 @@
 
 class MaxMin {
 	
-	static class Pair {
+	static class Pr {
 		
 		int Max;
 		int Min;
